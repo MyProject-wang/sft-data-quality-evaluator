@@ -182,3 +182,4 @@ cython_debug/
 # 自定义项目忽略
 SFT数据集/
 output_sft/
+full_version.ipynb
