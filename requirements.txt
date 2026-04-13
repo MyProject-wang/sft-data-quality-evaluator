@@ -1,0 +1,7 @@
+%%writefile requirements.txt
+pandas
+numpy
+scikit-learn
+matplotlib
+tqdm
+openai
